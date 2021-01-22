@@ -1,0 +1,4 @@
+create table pasien (
+ID CHAR(5),
+Nama varchar2(20),
+Alamat varchar2(20));
